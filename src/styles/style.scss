@@ -1,0 +1,11 @@
+$color: blue;
+$square: 90px;
+
+h1 {
+  color: $color
+}
+span {
+  display: inline-block; 
+  width: $square;
+  height: $square;
+}
